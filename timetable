@@ -1,0 +1,83 @@
+<html>
+<head>
+<title>time table</title>
+</head>
+
+<body style="background-color: #ffffff;" >
+<table border="2" background="yellow" cellspacing="2" cellpadding="3" 
+align="center" style="text-align: center; background-color: #a8e7ce;" >
+<caption style="color: #008080;" ><b>2nd YEAR B-SEC Time Table</b></caption>
+<tr style="background-color: #c0c0c0; color: blue" >
+
+
+<th>DAYS</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>LUNCH</th>
+<th>4</th>
+<TH>5</TH>
+<th>6</th>
+
+<tr>
+<TD>MON</TD>
+<td>MPS(PP)</td>
+<td>CODE</td>
+<td>AWP(PP)</td>
+<td rowspan="6">LUNCH</td>
+<td>T&P</td>
+<td colspan="2"align="center" >OS(PR)</td>
+ 
+</tr>
+
+<tr>
+<td>TUE</td>
+<td colspan="2"align="center">OS(TUT)</td>
+ 
+<td>LIBRARY</td>
+<td>T&P</td>
+<td colspan="2" align="center" >MLP(TUT)</td>
+
+</tr>
+
+<tr>
+<td>WED</td>
+<td colspan="2"align="center">CODETANTRA</td>
+
+<td>MPS(PP)</td>
+ 
+<td>JR</td>
+<td  colspan="2" align="center" >AWP(TUT)</td>
+
+</tr>
+
+<tr>
+<td>THU</td>
+<td  colspan="3" align="center">MLP(PR)</td>
+
+<td colspan="3" align="center">AWP(PR)</td>
+
+</tr>
+
+<tr>
+<td>FRI</td>
+<td colspan="3" align="center">SEP</td>
+
+ 
+<td>JR</td>
+<td>MLP(PP)</td>
+<td>CSR</td>
+</tr>
+
+<tr>
+<td>SAT</td>
+<td>OS(PP)</td>
+<td>MENTOR</td>
+<td>CODE</td>
+ 
+<td colspan="3" align="center">MPS(PR)</td>
+</tr>
+
+ 
+
+</html>
